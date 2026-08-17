@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-hz9vu2.salamcuan.online/sitemap.xml
